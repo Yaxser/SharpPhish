@@ -20,5 +20,6 @@ What I want to do
 
 1. Add error checking and report that to the operator
 2. Add parameters
+3. Add aggressor script
 
 If you have suggestions or questions, feel free to reach out, [email](mailto:Y.Alhazmi@student.fontys.nl)
